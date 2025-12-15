@@ -21,7 +21,7 @@ Este guia descreve, passo a passo, como **criar um novo campo de metadado no DSp
 2.  Clique nela 
     
 
-<img width="53" height="569" alt="barra lateral dspace" src="https://github.com/user-attachments/assets/467d5357-1501-4654-8602-b4d2064993a3" />
+<img width="53" height="569" alt="menu-lateral" src="https://github.com/user-attachments/assets/8c191f3c-0dd7-483e-87ed-716a3a7e32e5" />
 
 
 ----------
