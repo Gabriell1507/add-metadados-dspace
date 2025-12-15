@@ -21,7 +21,8 @@ Este guia descreve, passo a passo, como **criar um novo campo de metadado no DSp
 2.  Clique nela 
     
 
-> 📸 **Imagem sugerida:** Barra superior com o menu Administração destacado
+<img width="53" height="569" alt="barra lateral dspace" src="https://github.com/user-attachments/assets/467d5357-1501-4654-8602-b4d2064993a3" />
+
 
 ----------
 
@@ -36,7 +37,8 @@ No menu administrativo:
 
 Isso abrirá a página de gerenciamento de esquemas e campos de metadados.
 
-> 📸 **Imagem sugerida:** Menu Administração → Registros → Metadados
+<img width="274" height="559" alt="Captura de tela de 2025-12-15 09-42-31" src="https://github.com/user-attachments/assets/b8b7b841-5a14-43bc-8080-63da68891fea" />
+
 
 ----------
 
@@ -57,7 +59,8 @@ Isso abrirá a página de gerenciamento de esquemas e campos de metadados.
 
 > ℹ️ O esquema **Dublin Core** (`dc`) é o mais utilizado por padrão no DSpace.
 
-> 📸 **Imagem sugerida:** Lista ou seletor de esquemas de metadados
+<img width="1216" height="808" alt="Captura de tela de 2025-12-15 09-43-13" src="https://github.com/user-attachments/assets/a8ef341a-6363-4062-99b6-8e0fb243407f" />
+
 
 ----------
 
@@ -70,7 +73,8 @@ Após selecionar o esquema:
 2.  Um formulário será exibido para preenchimento dos dados do novo metadado.
     
 
-> 📸 **Imagem sugerida:** Botão "Criar campo de metadado"
+<img width="1213" height="451" alt="Captura de tela de 2025-12-15 09-43-42" src="https://github.com/user-attachments/assets/6f436b56-e6da-4469-bdca-81a72c29a7c6" />
+
 
 ----------
 
@@ -130,7 +134,6 @@ Exemplo:
 
 ```
 
-> 📸 **Imagem sugerida:** Formulário de criação de campo de metadado preenchido
 
 ----------
 
@@ -141,7 +144,6 @@ Exemplo:
 2.  O novo metadado passará a fazer parte do esquema selecionado.
     
 
-> 📸 **Imagem sugerida:** Botão Salvar destacado
 
 ----------
 
